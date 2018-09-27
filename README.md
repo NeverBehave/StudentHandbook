@@ -1,6 +1,6 @@
 # StudentHandbook
 
-A javafx application for calculate and record students' subjects and scores
+ A Javafx application for recording students' scores and calculating grades.
 
 **This project is intended for study and it is not production ready**
 
